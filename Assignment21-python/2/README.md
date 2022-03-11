@@ -1,4 +1,10 @@
- Assignment11
- 
-![draw diamond](https://user-images.githubusercontent.com/76538787/149660244-528e8bac-7807-46a9-87b6-70e063ffc8cf.JPG)
-![snake_game](https://user-images.githubusercontent.com/76538787/149660256-a21ae9a1-290d-4c5c-9bc8-c5fea0335287.png)
+** Color Correction**
+
+
+![girl](https://user-images.githubusercontent.com/76538787/157932493-11be8b10-d609-4875-a40d-be8b2ba12eab.jpg)
+
+![image](https://user-images.githubusercontent.com/76538787/157932459-988fc109-b961-4db4-8fc4-0d38f8d38e09.png)
+
+![boy](https://user-images.githubusercontent.com/76538787/157932598-3088fd93-fb7f-4e89-81c9-258ecd661ffa.jpg)
+
+![image](https://user-images.githubusercontent.com/76538787/157932586-ded8e0e3-94ab-4107-a961-080e482ad0f8.png)
