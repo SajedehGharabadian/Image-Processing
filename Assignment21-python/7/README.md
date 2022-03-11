@@ -1,4 +1,3 @@
- Assignment11
- 
-![draw diamond](https://user-images.githubusercontent.com/76538787/149660244-528e8bac-7807-46a9-87b6-70e063ffc8cf.JPG)
-![snake_game](https://user-images.githubusercontent.com/76538787/149660256-a21ae9a1-290d-4c5c-9bc8-c5fea0335287.png)
+**Draw the first letter of the name**
+
+![image](https://user-images.githubusercontent.com/76538787/157934592-2ef4b207-ba5a-4bb6-be73-455133e50a0d.png)
