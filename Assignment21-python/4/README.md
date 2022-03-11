@@ -1,4 +1,4 @@
- Assignment11
  
-![draw diamond](https://user-images.githubusercontent.com/76538787/149660244-528e8bac-7807-46a9-87b6-70e063ffc8cf.JPG)
-![snake_game](https://user-images.githubusercontent.com/76538787/149660256-a21ae9a1-290d-4c5c-9bc8-c5fea0335287.png)
+ ![wolf](https://user-images.githubusercontent.com/76538787/157933236-29dbfc6f-d534-4f9d-b31f-69cdb8711a75.jpg)
+
+ ![image](https://user-images.githubusercontent.com/76538787/157933227-4258a28c-9f87-4699-a594-2ab6930101c3.png)
