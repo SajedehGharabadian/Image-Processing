@@ -1,4 +1,5 @@
- Assignment11
- 
-![draw diamond](https://user-images.githubusercontent.com/76538787/149660244-528e8bac-7807-46a9-87b6-70e063ffc8cf.JPG)
-![snake_game](https://user-images.githubusercontent.com/76538787/149660256-a21ae9a1-290d-4c5c-9bc8-c5fea0335287.png)
+**Draw black bar on the image**
+
+![result](https://user-images.githubusercontent.com/76538787/157933548-55216d52-97f6-4ae9-9f49-f6434f435bb7.jpg)
+
+![image](https://user-images.githubusercontent.com/76538787/157933547-7c9875e2-63ef-457a-b18f-59ed922accad.png)
