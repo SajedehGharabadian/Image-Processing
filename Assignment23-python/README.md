@@ -20,7 +20,3 @@ Opening the camera and put effect on faces:
 ![image](https://user-images.githubusercontent.com/76538787/159059189-77e00fa0-ac71-44cb-872c-89a1ba4215fc.png)
 
 
-
-
-https://user-images.githubusercontent.com/76538787/160290839-cdf01b03-f648-4f90-a034-f3ea55e5dd54.mp4
-
