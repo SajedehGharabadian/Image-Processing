@@ -1,4 +1,4 @@
-**Assignment26 part2 **
+**Assignment26 part2**
 
 ⚪ Seprate Numbers
 
