@@ -2,9 +2,10 @@
  
 ⚪ Sodoku Detector
 
-![sudoku1](https://user-images.githubusercontent.com/76538787/162037226-a430cdda-649e-4eda-8c2a-b14d29beb90c.jpg)
-
-![result1](https://user-images.githubusercontent.com/76538787/162037284-06ed9079-b2cf-421e-be91-886fc254e1c4.jpg)
+<p float="left">
+  <img src="![sudoku1](https://user-images.githubusercontent.com/76538787/162038317-e8221752-6b19-4263-84f5-517999cb77ee.jpg)" width=“400” />
+  <img src="![result1](https://user-images.githubusercontent.com/76538787/162038025-a79a60be-0e27-497d-9880-a0763afa398f.jpg)" width=“400” /> 
+</p>
 
 
 ⚪ Webcam Sodoku Detector 
