@@ -11,7 +11,8 @@
 ⚪ Webcam Sodoku Detector 
 
 Pressing the 's' button, the sudoku image is cropped and saved
+<p float="left">
+  <img src="![result2](https://user-images.githubusercontent.com/76538787/162037619-dab82d83-bfb9-4c2a-aceb-e205e38a9d25.jpg)" width=“400” />
+  <img src="![result](https://user-images.githubusercontent.com/76538787/162037671-9d837439-dbe3-4dd4-b299-5b068700de28.jpg)" width=“400” /> 
+</p>
 
-![result2](https://user-images.githubusercontent.com/76538787/162037619-dab82d83-bfb9-4c2a-aceb-e205e38a9d25.jpg)
-
-![result](https://user-images.githubusercontent.com/76538787/162037671-9d837439-dbe3-4dd4-b299-5b068700de28.jpg)
