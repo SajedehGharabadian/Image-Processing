@@ -1,4 +1,16 @@
- Assignment11
+ **Assignment28**
  
-![draw diamond](https://user-images.githubusercontent.com/76538787/149660244-528e8bac-7807-46a9-87b6-70e063ffc8cf.JPG)
-![snake_game](https://user-images.githubusercontent.com/76538787/149660256-a21ae9a1-290d-4c5c-9bc8-c5fea0335287.png)
+⚪ Sodoku Detector
+
+![sudoku1](https://user-images.githubusercontent.com/76538787/162037226-a430cdda-649e-4eda-8c2a-b14d29beb90c.jpg)
+
+![result1](https://user-images.githubusercontent.com/76538787/162037284-06ed9079-b2cf-421e-be91-886fc254e1c4.jpg)
+
+
+⚪ Webcam Sodoku Detector 
+
+Pressing the 's' button, the sudoku image is cropped and saved
+
+![result2](https://user-images.githubusercontent.com/76538787/162037619-dab82d83-bfb9-4c2a-aceb-e205e38a9d25.jpg)
+
+![result](https://user-images.githubusercontent.com/76538787/162037671-9d837439-dbe3-4dd4-b299-5b068700de28.jpg)
