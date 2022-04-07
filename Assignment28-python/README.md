@@ -5,7 +5,7 @@
 <p float="left">
   <img src="![sudoku1](https://user-images.githubusercontent.com/76538787/162038317-e8221752-6b19-4263-84f5-517999cb77ee.jpg)" width=“400” />
   
-  <img src="![result1](https://user-images.githubusercontent.com/76538787/162038025-a79a60be-0e27-497d-9880-a0763afa398f.jpg)" width=“400” /> 
+  <img src="Assignment28-python/output/result.jpg" width=“400” /> 
 </p>
 
 ⚪ Webcam Sodoku Detector 
