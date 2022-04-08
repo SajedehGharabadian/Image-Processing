@@ -3,7 +3,7 @@
 ⚪ Sodoku Detector
 
 <p float="left">
-  <img src="![sudoku1](https://user-images.githubusercontent.com/76538787/162038317-e8221752-6b19-4263-84f5-517999cb77ee.jpg)" width=“400” />
+  <img src="Assignment28-python/sudoku1.jpg" width=“400” />
   
   <img src="Assignment28-python/output/result.jpg" width=“400” /> 
 </p>
